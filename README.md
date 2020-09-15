@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rntjr_?label=Renato%20Junior&style=social)
-[![Linkedin Badge](https://img.shields.io/badge/-Renato_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renato-fb-junior/)](https://www.linkedin.com/in/renato-fb-junior/)
+[![Linkedin Badge](https://img.shields.io/badge/-Renato_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rntjr)](www.linkedin.com/in/rntjr/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rntjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rntjr)](https://github.com/anuraghazra/github-readme-stats)
