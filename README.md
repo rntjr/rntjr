@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rntjr_?label=Renato%20Junior&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_rntjr?label=Renato%20Junior&style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Renato_Junior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rntjr)](www.linkedin.com/in/rntjr/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rntjr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
